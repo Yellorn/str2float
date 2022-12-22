@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="str2float",
-    version="0.0.5",
+    version="0.0.9",
     author="Hoang Yell",
     author_email="hoangyell@yellorn.com",
     description="Convert float string (decimal point or decimal comma) to float",
